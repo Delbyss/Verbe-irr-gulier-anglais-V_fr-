@@ -1,6 +1,3 @@
-Allez dans votre configuration GitHub Pages dans la page des paramètres du référentiel et choisissez la source de déploiement comme "GitHub Actions", cela vous conduira à créer un flux de travail qui construit et déploie votre projet, un flux de travail d'échantillon qui installe des dépendances et construit en utilisant npm est fourni:
-yml
-
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
